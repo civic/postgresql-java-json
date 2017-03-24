@@ -1,4 +1,4 @@
-JoavaでPostgreSQLのjsonb型を使う
+JavaでPostgreSQLのjsonb型を使う
 =========================================
 
 準備
