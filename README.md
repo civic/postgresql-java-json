@@ -1,9 +1,5 @@
-JavaでPostgreSQLのjsonb型を使う
-=========================================
+# Java で PostgreSQL の jsonb 型を使う
 
-準備
-----
-mydbデータベースにポート15432で接続。
-json_testテーブルを参照する。
+## 準備
 
-
+scripts/start-postgresql-server.sh で docker で postgresql を起動
